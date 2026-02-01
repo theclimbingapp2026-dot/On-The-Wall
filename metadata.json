@@ -1,0 +1,8 @@
+{
+  "name": "On The Wall V2",
+  "description": "A comprehensive climbing tracking and analytics mobile application for boulderers and rope climbers.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
